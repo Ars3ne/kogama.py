@@ -26,6 +26,7 @@ pip install kogama.py
 * Python ≥ 3.5.3
 * ``requests``
 * ``beautifulsoup4``
+* ``lxml``
 
 Usually ``pip`` will install these for you.
 

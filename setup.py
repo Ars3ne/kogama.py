@@ -19,6 +19,7 @@ setuptools.setup(
   install_requires=[
           'requests',
           'beautifulsoup4',
+          'lxml',
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',
